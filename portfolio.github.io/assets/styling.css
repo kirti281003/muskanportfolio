@@ -1,0 +1,94 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0%;
+}
+.section1{
+    
+    background-color: rgb(236, 176, 176);
+}
+.nav{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.nav a{
+    text-decoration: none;
+}
+.nav-link{
+    color: black;
+}
+.img{
+    align-self: flex-end;
+}
+.intro{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.intro h1{
+        font-size: 40px;
+        margin-bottom: 5%;
+        font-weight: 200;
+}
+span{
+    color: orange;
+}
+h5{
+    margin-left: 40px;
+}
+.p{
+    margin-left: 30px;
+}
+.session{
+    margin-left: 8%;
+}
+.img{
+    position: absolute;
+    bottom: 20%;
+    right: 120px;
+}
+.ig{
+    margin-left: 8%;
+    margin-top: 1%;
+}
+.fb{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.niftimg{
+    margin-left: 10%
+}
+.section2 a{
+    text-decoration: none;
+}
+.contactus{
+    position: relative;
+    width: 100%;
+    padding: 40px 100px;
+}
+.contactus .title{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 2em;
+}
+.contactus .title h2{
+    font-weight: 600;
+}
+.row{
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+}
+.col{
+    padding: 2%;
+}
+.card img{
+    width: 100%;
+    transition: .5s;
+}
+.card:hover img{
+opacity: .7;
+transform: scale3d(1.5,1.5,1.5);
+}
+
+
